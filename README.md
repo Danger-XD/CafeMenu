@@ -1,2 +1,3 @@
 # CafeMenu
-HTML and CSS project by freecodecamp
+
+A proper menu made by HTML and CSS
